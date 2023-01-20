@@ -1,11 +1,3 @@
-# Exam #1
-
-The solutions content of this file below will be updated according to [the instructions](instructions/instructions.md).
-
-## Solutions
-
-The following sections contain a report on the solutions to each of the required components of this exam.
-
 ### Data munging
 
 The code in the Python program, [solution.py](solution.py), contains the solutions to the **data munging** part of this exam.
